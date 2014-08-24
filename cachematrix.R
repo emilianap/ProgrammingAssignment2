@@ -1,5 +1,5 @@
 ## Below are two functions that are used to create a matrix 
-## and cache's its solution
+## and cache its solution
 
 
 ## This function creates a special "matrix"
